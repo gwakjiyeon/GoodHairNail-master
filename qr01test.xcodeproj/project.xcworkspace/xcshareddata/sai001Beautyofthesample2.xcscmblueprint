@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ea7fe226-72c8-499a-a31f-d94182a363f2++160" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ea7fe226-72c8-499a-a31f-d94182a363f2++160" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9AE6E964-DCC4-4C5B-B955-BCA6E170354D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ea7fe226-72c8-499a-a31f-d94182a363f2++160" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sai001Beautyofthesample2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sai001Beautyofthesample2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/confidential.materialize.jp\/svn\/materialize",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ea7fe226-72c8-499a-a31f-d94182a363f2++160"
+    }
+  ]
+}

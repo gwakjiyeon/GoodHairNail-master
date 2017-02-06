@@ -1,0 +1,6 @@
+framework module Pods_qr01test {
+  umbrella header "Pods-qr01test-umbrella.h"
+
+  export *
+  module * { export * }
+}
